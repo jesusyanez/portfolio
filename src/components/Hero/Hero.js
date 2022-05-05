@@ -12,7 +12,7 @@ const Hero = () => (
         a Software Developer.
       </SectionTitle>
       <SectionText>
-        I help companies bring their digital presence to life and create cutting edge apps for millions of users.
+        I help companies bring their digital presence to life and create cutting edge apps for hundreds of users.
       </SectionText>
       <Button onClick={() => window.location = '#projects'}>Learn More</Button>
     </LeftSection>

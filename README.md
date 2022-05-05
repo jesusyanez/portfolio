@@ -1,1 +1,1 @@
-# developer-portfolio-with-blog
+# developer-portfolio

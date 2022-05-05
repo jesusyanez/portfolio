@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I started my coding journey in 2016.
+        I started my coding journey back in 2017. Since then I've done IT, Social Media Management, Web Design & Development, SEO, and Software Engineering for clients.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
