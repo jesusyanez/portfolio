@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Discord Game',
-    description:"The app is a discord bot that asks everyone in the server questions that you must all answer together. It runs on the Node Javascript runtime environment and will cause a lot of arguments between you and your friends.",
+    description:"This app is a discord bot that asks everyone in the server questions that you must all answer together. It runs on the Node Javascript runtime environment and will cause a lot of arguments between you and your friends.",
     image: '/images/2.gif',
     tags: ['JavaScript', 'Node', 'Linux'],
     visit: 'https://github.com/jesusyanez/LoL-Discord-Bot',
