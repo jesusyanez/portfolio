@@ -1,20 +1,19 @@
 export const projects = [
   {
     title: 'News Website',
-    description: "The App is called Tech Line and it is a simple technology news app that allows users to see breaking news articles that are happening right now.",
+    description: "The App is called Tech Line and it is a simple tech news site that allows users to see breaking news articles that are trending right now.",
       image: '/images/1.png',
       tags: ['Python', 'Bootstrap', 'JavaScript', 'Node'],
-    source: 'https://github.com/jesusyanez/Techline',
-    visit: 'https://jesusyanez.github.io/Techline/',
+    source: 'https://jesusyanez.github.io/Techline/',
+    visit: 'https://github.com/jesusyanez/Techline',
     id: 0,
   },
   {
     title: 'Discord Game',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
+    description:"The app is a discord bot that asks everyone in the server questions that you must all answer together. It runs on the Node Javascript runtime environment and will cause a lot of arguments between you and your friends.",
+    image: '/images/2.gif',
     tags: ['JavaScript', 'Node', 'Linux'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/jesusyanez/LoL-Discord-Bot',
     id: 1,
   },
 ];

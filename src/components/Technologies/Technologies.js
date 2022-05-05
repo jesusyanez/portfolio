@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider />
     <SectionTitle main>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies in the web development world. From Back-end to Front-end.
+      I've worked with a range of technologies in the web development world. A full stack of tools.
     </SectionText>
     <List>
       <ListItem>
@@ -17,7 +17,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            Next.js | React.js | Bootstrap
+            Next.js | React | Bootstrap
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiHeroku size="3rem"/>
+        <DiAws size="3rem"/>
         <ListContainer>
           <ListTitle>Cloud Hosting</ListTitle>
           <ListParagraph>

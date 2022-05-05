@@ -9,7 +9,7 @@ const Hero = () => (
     <LeftSection>
       <SectionTitle main center>
         Hi, I'm Jesus<br />
-        a Software Developer.
+        a Full-Stack Developer.
       </SectionTitle>
       <SectionText>
         I help companies bring their digital presence to life and create cutting edge apps for hundreds of users.
