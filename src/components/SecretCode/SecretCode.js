@@ -4,12 +4,12 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { Box, Boxes, BoxName, BoxText } from './SecretCodeStyles';
 
 const data = [
+  { name: 'Next App TypeScript', text: 'npx create-next-app@latest --ts my-app', },
+  { name: 'Create React App', text: 'npx create-react-app my-app'},
   { name: 'Git View Repo', text: 'git remote show origin', },
   { name: 'Git Set Origin', text: 'git remote set-url origin new.git.url/here', },
-  { name: 'Next App TypeScript', text: 'npx create-next-app@latest --ts my-app', },
   { name: 'Next App with TailwindCSS', text: 'npx create-next-app --example with-tailwindcss my-app', },
-  { name: 'Next App', text: 'npx create-next-app@latest my-app', },
-  { name: 'Create React App', text: 'npx create-react-app my-app'}
+  { name: 'Next App', text: 'npx create-next-app@latest my-app', }
 ];
 
 const Acomplishments = () => (
