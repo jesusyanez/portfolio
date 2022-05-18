@@ -11,7 +11,7 @@ const showCurrentYear = () => {
 const Footer = () => {
   return (
     <FooterWrapper>
-      <LinkList>
+      {/* <LinkList>
         <LinkColumn>
           <LinkTitle>Call or Text</LinkTitle>
           <LinkItem href="tel:239-258-6881">239-258-6881</LinkItem>
@@ -20,7 +20,7 @@ const Footer = () => {
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:jesusy5133@hotmail.com">jesusy5133@hotmail.com</LinkItem>
         </LinkColumn>
-      </LinkList>
+      </LinkList> */}
             <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>Innovating one project at a time</Slogan>
