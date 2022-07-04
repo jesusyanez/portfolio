@@ -27,7 +27,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            Node | Python | Databases
+            Java | Node | Python | Databases
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -37,7 +37,7 @@ const Technologies = () =>  (
           <ListTitle>Cloud Hosting</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            AWS | Heroku
+            AWS | Heroku | Vercel
           </ListParagraph>
         </ListContainer>
       </ListItem>
