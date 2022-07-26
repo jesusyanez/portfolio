@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Drumkit-DL',
     description: "A python program that automates downloading and extracting from google drive links, specifically on r/drumkits, so you can download and organize files from multiple links in a jiffy.",
-      image: '/images/rapgeek.PNG',
+      image: '/images/drumkitdl.png',
       tags: ['Python'],
     visit: 'https://github.com/jesusyanez/drumkit-dl',
     source: 'https://github.com/jesusyanez/drumkit-dl',
