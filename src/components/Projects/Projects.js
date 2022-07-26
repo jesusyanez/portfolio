@@ -17,8 +17,9 @@ const Projects = () => (
             <Hr />
           </TitleContent>
           <CardInfo>{description}</CardInfo>
+          <br/>
           <div>
-            <TitleContent>Stack</TitleContent>
+            <TitleContent>Tech Stack</TitleContent>
             <TagList>
               {tags.map((tag, i) => (
                 <Tag key={i}>{tag}</Tag>
@@ -26,8 +27,8 @@ const Projects = () => (
             </TagList>
           </div>
           <UtilityList>
-            <ExternalLinks href={visit}>GitHub</ExternalLinks>
-            <ExternalLinks href={source}>Visit</ExternalLinks>
+            <ExternalLinks href={source}>GitHub</ExternalLinks>
+            <ExternalLinks href={visit}>Open</ExternalLinks>
           </UtilityList>
         </BlogCard>
       ))}
